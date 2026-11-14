@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794692203025,
+      "tag": "0000_kaamsetu_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794692221024,
+      "tag": "0001_demo_acceptance",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794692502963,
+      "tag": "0002_confirmed_counts",
+      "breakpoints": true
+    }
+  ]
+}
